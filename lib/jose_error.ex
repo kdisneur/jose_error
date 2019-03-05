@@ -1,0 +1,2 @@
+defmodule JoseError do
+end
